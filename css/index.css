@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+
+
 .header_all {
   width: 100%;
   position: relative;
@@ -70,7 +72,7 @@
 
 /* メイン */
 .section {
-  margin: 150px;
+  margin: 150px 0;
 }
 
 .news {
@@ -201,8 +203,8 @@
 .service_bg {
   background-image: url("../img-3/service_bg.png");
   background-size: cover;
-  height: 900px;
   margin-top: 5%;
+  height: 900px;
   text-align: center;
 }
 
